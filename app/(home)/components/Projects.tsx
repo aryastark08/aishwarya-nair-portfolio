@@ -41,7 +41,7 @@ function Projects() {
     {
       title: "Portfolio",
       tech: [SiNextdotjs, SiShadcnui, SiTypescript, SiTailwindcss],
-      link: "https://dummyops.meertarbani.in/",
+      link: "https://aishwarya-nair-portfolio.vercel.app/",
       cover: "/profile-prj.png",
       background: "bg-green-500",
     },

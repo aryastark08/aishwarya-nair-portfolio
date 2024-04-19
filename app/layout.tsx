@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Space_Grotesk } from "next/font/google";
 import "./styles/globals.css";
 import { ThemeProvider } from "./components/Theme-Provider";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const space_grotesk = Space_Grotesk({
   subsets: ["latin"],
@@ -44,6 +45,7 @@ export default function RootLayout({
           type="image/x-icon"
           className="rounded-full w-10 h-10"
         />
+        <SpeedInsights />
       </head>
       <body className={space_grotesk.className}>
         <ThemeProvider
