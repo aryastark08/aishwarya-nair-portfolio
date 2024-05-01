@@ -18,7 +18,7 @@ const Navbar = ({ className }: { className?: string }) => {
       Icon: FaGithub,
     },
     {
-      link: "mailto:nairaishwarya48@gmail.com",
+      link: "mailto:snailman903@gmail.com",
       label: "Gmail",
       Icon: BiLogoGmail,
     },
