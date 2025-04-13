@@ -20,7 +20,7 @@ function HeroSection() {
           }
         </p>
         <Link
-          href={"mailto:nairaishwarya48@gmail.com"}
+          href={"mailto:snailman903@gmail.com"}
           aria-label="Send me an mail"
           className="inline-block group"
         >
