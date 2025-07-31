@@ -19,13 +19,13 @@ function HeroSection() {
             "I'm a passionate frontend developer and cybersecurity enthusiast with a curiosity that knows no bounds."
           }
         </p>
-        <Link
+        {/* <Link
           href={"mailto:snailman903@gmail.com"}
           aria-label="Send me an mail"
           className="inline-block group"
         >
           <Title text="Contact Me 📨" className="dark:text-white" />
-        </Link>
+        </Link> */}
       </div>
 
       <div>
