@@ -8,7 +8,7 @@ import { MovingBorderBtn } from "@components/app/components/ui/moving-border";
 const Navbar = ({ className }: { className?: string }) => {
   const socials = [
     {
-      link: "https://www.linkedin.com/in/aishwarya-nair-127871208",
+      link: "https://www.linkedin.com",
       label: "Linkedin",
       Icon: FaLinkedin,
     },
@@ -18,7 +18,7 @@ const Navbar = ({ className }: { className?: string }) => {
       Icon: FaGithub,
     },
     {
-      link: "mailto:snailman903@gmail.com",
+      link: "https://gmail.com",
       label: "Gmail",
       Icon: BiLogoGmail,
     },
