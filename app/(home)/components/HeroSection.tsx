@@ -7,7 +7,7 @@ function HeroSection() {
     <div className=" min-h-[60vh] flex flex-col gap-y-40 lg:flex-row items-center justify-between animate-move-up mt-4 md:mt-14">
       <div className="space-y-10 text-center lg:text-left">
         <h1 className="text-4xl lg:text-6xl font-bold dark:text-white">
-          Hello there!🌻
+          Hello there!
           <br />
           <span className="underline underline-offset-8 decoration-pink-600 ">
             {"I'm Aishwarya"}
